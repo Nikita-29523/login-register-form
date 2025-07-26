@@ -1,4 +1,4 @@
-# Login & Register UI Form
+# Login & Register Form
 
 A clean and responsive **Login and Registration form UI** built using HTML and CSS. The design features a beautiful blurred background and card-style form boxes, suitable for integration into any web project that requires user authentication.
 
@@ -15,6 +15,4 @@ A clean and responsive **Login and Registration form UI** built using HTML and C
 - HTML
 - CSS (custom styling in `style8.css`)
 
-## 📷 Preview
-![Login and Register UI](login and registration.png)
 
