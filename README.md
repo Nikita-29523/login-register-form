@@ -16,6 +16,5 @@ A clean and responsive **Login and Registration form UI** built using HTML and C
 - CSS (custom styling in `style8.css`)
 
 ## 📷 Preview
-
-![UI Preview](login and registration.png)
+![Login and Register UI](login and registration.png)
 
